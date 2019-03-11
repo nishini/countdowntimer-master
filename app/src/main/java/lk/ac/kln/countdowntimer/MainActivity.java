@@ -47,6 +47,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onStop(){
         super.onStop();
-        wasRunning = true
+        wasRunning = true;
     }
 }
